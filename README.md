@@ -1,6 +1,7 @@
 ## Welcome to the official hub for Solara Executor, the ultimate scripting companion for Roblox adventurers and creators. Solara is more than just an executor—it's a gateway to limitless creativity, enabling you to push the boundaries of Roblox gameplay with precision and ease. Whether you're crafting custom scripts, experimenting with game mechanics, or exploring new possibilities, Solara is your trusted ally.
 
-![image](https://github.com/user-attachments/assets/7e80d7f7-672b-4644-a76c-620dd78d353e)
+![image](https://github.com/user-attachments/assets/c1c123c5-7b2c-4085-aa7e-003e617576c3)
+
 
 
 ## Why Solara?
